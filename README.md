@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Rockwell70
-- 👀 I’m interested in Biathlon, Rowing, Python, Swift
+- 👀 I’m interested in Biathlon, Rowing, Python, SQL
 - 🌱 I’m currently learning Swedish
 - 💞️ I’m looking to collaborate on any Python project
 - 📫 How to reach me rockwellshabani@gmail.com
